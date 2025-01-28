@@ -44,13 +44,13 @@ body {
 }
 
 .content {
-    margin-top: 100px;
+    margin-top: 75px;
     margin-bottom: 100px
 }
 
 .navbar.scrolled {
     background-color: #c2ded1;
-    /* transtition: background 500ms; */
+    transtition: background 800ms;
 }
 
 
